@@ -1,0 +1,28 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(97, 96, 96);
+}
+
+h1{
+    font-size:x-large ;
+}
+
+.titulo{
+    background-color: rgb(2, 104, 70);
+    align-items: center;
+    text-shadow: 0 0 30px aqua;
+}
+
+nav{
+    background-color: paleturquoise;
+    width: 17%;
+}
+
+img {
+    border: 10px solid black;
+}
+
+footer {
+    background-color: darkred;
+    width: 17%;
+}
